@@ -1,7 +1,7 @@
 # @Author KSASAN I317174
 
 """
-DBLoad in Successfactors is Trending (Either downward or upward) plus it has Seasonality too
+DBLoad is Trending (Either downward or upward) plus it has Seasonality too
 so we are going with TimeSeries Forecasting model
 
 Plan for Getting DBLoad is from Zabbix and we will be running a Job to get the data and save in Our tables

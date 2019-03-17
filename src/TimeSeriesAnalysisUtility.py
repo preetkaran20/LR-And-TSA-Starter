@@ -90,7 +90,7 @@ def parseJsonData():
 
 def convertOdataJsonToPandasTS(jsonPyDS, logging=False):
     """
-    Converting Odata Response from https://itoahana.sapsf.com/sfsf/hdbmetrics/itoametrics_reapp.xsodata/kpi?$format=json
+    Converting Odata Response from *
     to Pandas TimeSeries for more analysis
     :param jsonPyDS:
     :param logging:
